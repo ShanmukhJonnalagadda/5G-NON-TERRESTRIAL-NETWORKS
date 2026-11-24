@@ -1,0 +1,11 @@
+# Local editor / operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+~$*
+# Future local simulation environments
+.venv/
+__pycache__/
+.env
